@@ -1,0 +1,19 @@
+{
+  "name": "crud_application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimonchik21/test_task_crud_applicatyion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimonchik21/test_task_crud_applicatyion/issues"
+  },
+  "homepage": "https://github.com/Dimonchik21/test_task_crud_applicatyion#readme"
+}

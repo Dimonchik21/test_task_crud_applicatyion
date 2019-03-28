@@ -1,0 +1,14 @@
+{
+    "name": "dmitriy_alyokhin/crud_app",
+    "require": {
+        "phpoffice/phpexcel": "^1.8",
+        "pclzip/pclzip": "^2.8",
+        "box/spout": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "Alyokhin Dmitriy",
+            "email": "alyokhin.dmitriy@yandex.ru"
+        }
+    ]
+}

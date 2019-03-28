@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<paragraphs>
+    <paragraph id="1" name="Пункт 1" url="#url/1" level="1"/>
+    <paragraph id="2" name="Пункт 2" url="#url/2" level="1"/>
+    <paragraph id="3" name="Пункт 2_1" url="#url/2_1" level="2"/>
+    <paragraph id="4" name="Пункт 2_2" url="#url/2_2" level="2"/>
+    <paragraph id="5" name="Пункт 3" url="#url/3" level="1"/>
+</paragraphs>
