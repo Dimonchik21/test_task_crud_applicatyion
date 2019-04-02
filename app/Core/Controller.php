@@ -17,6 +17,8 @@ abstract class Controller
         $this->route = $route;
 
         $this->view = new View($route);
+//        var_dump($route);
+//        exit;
         $this->model = $this->loadModel($route['controller']);
     }
 

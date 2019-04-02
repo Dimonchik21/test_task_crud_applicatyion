@@ -2,6 +2,7 @@
 
 use App\Core\Router;
 
+define('ROOT', $_SERVER['DOCUMENT_ROOT']);
 
 spl_autoload_register(function ($class) {
     $path = str_replace('\\', '/', $class . '.php');

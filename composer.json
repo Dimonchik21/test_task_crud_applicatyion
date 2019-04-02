@@ -3,7 +3,8 @@
     "require": {
         "phpoffice/phpexcel": "^1.8",
         "pclzip/pclzip": "^2.8",
-        "box/spout": "^2.7"
+        "box/spout": "^2.7",
+        "knplabs/knp-gaufrette-bundle": "^0.5.3"
     },
     "authors": [
         {

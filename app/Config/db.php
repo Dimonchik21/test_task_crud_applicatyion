@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'menu' => 'FilesDb/menu.xml',
+    'menu' => ROOT . '/Db/menu.csv',
 ];

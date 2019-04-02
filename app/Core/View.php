@@ -38,7 +38,7 @@ class View
     public static function errorCode($code)
     {
         http_response_code($code);
-        $path = 'application/views/errors/' . $code . '.php';
+        $path = 'app/Views/errors/' . $code . '.php';
 
         if (file_exists($path)) {
             require $path;

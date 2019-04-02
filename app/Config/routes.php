@@ -1,16 +1,12 @@
 <?php
 
 return [
-    '' => [
-        'controller' => 'Main',
+    'menu' => [
+        'controller' => 'Menu',
         'action' => 'index',
     ],
-    'account/login' => [
-        'controller' => 'account',
-        'action' => 'login',
-    ],
-    'account/register' => [
-        'controller' => 'account',
-        'action' => 'register',
+    '' => [
+        'controller' => 'Menu',
+        'action' => 'dashboard',
     ],
 ];
