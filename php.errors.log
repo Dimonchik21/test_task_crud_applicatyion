@@ -1,0 +1,795 @@
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:36:05 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:37:30 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:37:30 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:37:58 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:37:58 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:37:59 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:37:59 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:38:00 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:00 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:38:00 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:00 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:38:10 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:10 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:38:10 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:10 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:38:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:39:48 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:48 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:48 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:48 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:48 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:49 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:49 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:49 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:49 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:39:49 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 17:40:52 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:40:52 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:40:54 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:40:54 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:41:15 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:15 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:41:16 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:16 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:41:16 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:16 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:41:16 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:16 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:41:30 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:30 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:41:31 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:31 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:41:31 UTC] PHP Warning:  include(/home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:31 UTC] PHP Warning:  include(): Failed opening '/home/alyokhin/localhost/crud-app.loc/vendor/composer/../../app/Models/Menu.php' for inclusion (include_path='.:/usr/share/php') in /home/alyokhin/localhost/crud-app.loc/vendor/composer/ClassLoader.php on line 444
+[02-Apr-2019 17:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMenu() on null in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php:63
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#1 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#2 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 63
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fopen(/home/alyokhin/localhost/crud-app.loc/Db/menu.csv): failed to open stream: Permission denied in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 56
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 65
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 76
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 76
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 76
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 76
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fputs() expects parameter 1 to be resource, boolean given in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 76
+[02-Apr-2019 17:43:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 79
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:43:45 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 72
+[02-Apr-2019 17:44:37 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:44:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:44:37 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:44:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:44:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 84
+[02-Apr-2019 17:44:37 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to App\Models\Menu::save() must be of the type array, null given, called in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 90 and defined in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php:16
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(90): App\Models\Menu->save(NULL)
+#1 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(71): App\Controllers\MenuController->delete('2')
+#2 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#3 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#4 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php on line 16
+[02-Apr-2019 17:45:19 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:45:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:45:19 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:45:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:45:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 84
+[02-Apr-2019 17:45:19 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to App\Models\Menu::save() must be of the type array, null given, called in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 90 and defined in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php:16
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(90): App\Models\Menu->save(NULL)
+#1 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(71): App\Controllers\MenuController->delete('2')
+#2 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#3 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#4 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php on line 16
+[02-Apr-2019 17:47:04 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:47:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:47:04 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:47:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:47:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 84
+[02-Apr-2019 17:47:04 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to App\Models\Menu::save() must be of the type array, null given, called in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 90 and defined in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php:16
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(90): App\Models\Menu->save(NULL)
+#1 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(71): App\Controllers\MenuController->delete('2')
+#2 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#3 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#4 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php on line 16
+[02-Apr-2019 17:48:06 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:48:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:48:06 UTC] PHP Notice:  Undefined variable: data in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:48:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 38
+[02-Apr-2019 17:48:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 84
+[02-Apr-2019 17:48:06 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to App\Models\Menu::save() must be of the type array, null given, called in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 90 and defined in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php:16
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(90): App\Models\Menu->save(NULL)
+#1 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(71): App\Controllers\MenuController->delete('2')
+#2 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#3 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#4 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php on line 16
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:06 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 0 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 1 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 2 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 3 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 17:49:27 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/Db/Type/CSV.php on line 71
+[02-Apr-2019 18:20:39 UTC] PHP Fatal error:  Interface 'App\Lib\FileReader\Interfaces\FileReaderInterface' not found in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/FileReader.php on line 9
+[02-Apr-2019 18:21:31 UTC] PHP Fatal error:  Interface 'App\Lib\FileReader\Interfaces\FileReaderInterface' not found in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/FileReader.php on line 9
+[02-Apr-2019 18:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method App\Lib\Db\CSV::getCSVArray() in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php:19
+Stack trace:
+#0 /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php(63): App\Models\Menu->getMenu()
+#1 /home/alyokhin/localhost/crud-app.loc/app/Core/Router.php(53): App\Controllers\MenuController->deleteAction()
+#2 /home/alyokhin/localhost/crud-app.loc/index.php(20): App\Core\Router->run()
+#3 {main}
+  thrown in /home/alyokhin/localhost/crud-app.loc/app/Models/Menu.php on line 19
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:34:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Controllers/MenuController.php on line 85
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:00 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:19 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:28 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:30 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:33 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:34 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:42 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:43 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: id in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 18
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: name in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 21
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: url in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 24
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: level in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 27
+[02-Apr-2019 18:36:44 UTC] PHP Notice:  Undefined index: parent in /home/alyokhin/localhost/crud-app.loc/app/Views/menu/delete.php on line 30
+[02-Apr-2019 18:36:58 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32
+[02-Apr-2019 18:37:11 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32
+[02-Apr-2019 18:37:20 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32
+[02-Apr-2019 18:37:20 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32
+[02-Apr-2019 18:37:21 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32
+[02-Apr-2019 18:37:21 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32
+[02-Apr-2019 18:37:21 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32
+[02-Apr-2019 18:37:21 UTC] PHP Notice:  Undefined offset: 4 in /home/alyokhin/localhost/crud-app.loc/app/Lib/FileReader/Readers/CsvReader.php on line 32

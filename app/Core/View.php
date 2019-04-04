@@ -19,7 +19,7 @@ class View
     public function render($title, $vars = [])
     {
         extract($vars);
-        $path = 'app/Views/' . $this->path . '.php';
+        $path = 'app/Views/' . mb_strtolower($this->path) . '.php';
 
         if (file_exists($path)) {
             ob_start();

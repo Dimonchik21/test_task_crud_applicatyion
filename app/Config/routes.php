@@ -1,12 +1,20 @@
 <?php
 
 return [
-    'menu' => [
+    'menu-list' => [
+        'controller' => 'Menu',
+        'action' => 'list',
+    ],
+    'menu-view' => [
         'controller' => 'Menu',
         'action' => 'index',
     ],
-    '' => [
+    'menu-add' => [
         'controller' => 'Menu',
-        'action' => 'dashboard',
+        'action' => 'add',
+    ],
+    'menu-delete' => [
+        'controller' => 'Menu',
+        'action' => 'delete',
     ],
 ];

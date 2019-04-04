@@ -2,9 +2,8 @@
 
 namespace App\Core;
 
-use App\Lib\Db;
-use App\Lib\Db\Type\CSV;
-use App\Lib\Db\FileReader;
+use App\Lib\Db\CSV;
+use App\Lib\FileReader\FileReaderFactory;
 
 abstract class Model
 {
@@ -12,11 +11,13 @@ abstract class Model
 
     public $fileReader;
 
-    public function __construct()
-    {
-        $this->fileReader = new FileReader();
-    }
-
+    /**
+     * @param $tableName
+     * @return null
+     * @throws \App\Lib\FileReader\Exceptions\FileNotFoundException
+     * @throws \App\Lib\FileReader\Exceptions\FileNotReadableException
+     * @throws \App\Lib\FileReader\Exceptions\UnsupportedFileException
+     */
     public function rowTables($tableName)
     {
         if (empty($tableName)) {
@@ -25,8 +26,20 @@ abstract class Model
 
         $config = include(ROOT . '/app/Config/db.php');
 
-        $this->db = $this->fileReader->read($config[$tableName]);
+        $this->fileReader = FileReaderFactory::create($config[$tableName], 'csv');
+        $this->db = new CSV($this->fileReader);
 
         return $this->db;
+    }
+
+    /**
+     * @param $tableName
+     * @return mixed
+     */
+    protected function getFilePath($tableName)
+    {
+        $config = include(ROOT . '/app/Config/db.php');
+
+        return $config[$tableName];
     }
 }
